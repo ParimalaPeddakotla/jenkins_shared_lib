@@ -1,4 +1,4 @@
-def server = Artifactory.server '34.205.71.197';
+def server = Artifactory.server '44.203.146.99';
 
 def uploadSpec = """{
                 "files": [{
